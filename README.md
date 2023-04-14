@@ -11,4 +11,4 @@ Download and run the Pygame.py file to enjoy our all time favourite Snake game.
 
 Python module Pygame must be installed.If not, Use the command pip install pygame
 
-Let's get back to our good old days 😉
+# Let's get back to our good old days 😉
